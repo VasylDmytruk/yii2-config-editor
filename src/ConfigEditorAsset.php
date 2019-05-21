@@ -2,6 +2,7 @@
 
 namespace autoxloo\yii2\config\editor;
 
+use conquer\codemirror\CodemirrorAsset;
 use yii\bootstrap\BootstrapAsset;
 use yii\web\AssetBundle;
 
@@ -18,5 +19,6 @@ class ConfigEditorAsset extends AssetBundle
 
     public $depends = [
         BootstrapAsset::class,
+        CodemirrorAsset::class,
     ];
 }
