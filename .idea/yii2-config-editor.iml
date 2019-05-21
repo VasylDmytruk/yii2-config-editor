@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="autoxloo\yii2\config\editor\" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/tests/runtime" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/bootstrap" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/codemirror" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/inputmask" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/jquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/punycode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower-asset/yii2-pjax" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/bootstrap" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/codemirror" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/inputmask" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/jquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/punycode" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bower/yii2-pjax" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/cebe/markdown" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/conquer/codemirror" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/conquer/helpers" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/kdn/yii2-json-editor" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/ajv" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/brace" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/co" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/drag-tracker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/fast-deep-equal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/fast-json-stable-stringify" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/javascript-natural-sort" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/jmespath" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/json-schema-traverse" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/json-source-map" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/jsoneditor" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/mobius1-selectr" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/picomodal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/sphinxxxx--color-conversion" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm-asset/vanilla-picker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/ajv" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/brace" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/co" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/drag-tracker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/fast-deep-equal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/fast-json-stable-stringify" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/javascript-natural-sort" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/jmespath" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/json-schema-traverse" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/json-source-map" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/jsoneditor" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/mobius1-selectr" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/picomodal" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/sphinxxxx--color-conversion" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/npm/vanilla-picker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpspec/php-diff" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-gii" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
