@@ -21,7 +21,7 @@ $this->params['breadcrumbs'][] = $this->title;
     <h3><?= $this->title ?></h3>
 
     <div class="warning">
-        <p class="bg-danger text-warning">
+        <p class="bg-danger">
             <?= Yii::t('app', 'Be carefull while editing config file, if you put wrong content, you will damage website and wont access it. Make sure you have file backup!') ?>
         </p>
     </div>
