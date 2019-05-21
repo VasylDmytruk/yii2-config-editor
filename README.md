@@ -2,6 +2,8 @@ Yii2 config editor
 ==================
 Web interface to edit yii2 config files.
 
+> Note: Be carefull while editing config file, if you put wrong content, you will damage website. Make sure you have file backup! 
+
 Installation
 ------------
 
